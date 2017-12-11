@@ -1,0 +1,17 @@
+Gerador de nomes de forrozeiros 1.0.1 developed by PabloDOSteam, copyright december,2017
+Thanks to Fellippe Heitor to helped me making the generator and the numbers
+Build 1024
+-----------------------------------------------------------------------------------------
+-------------------------------Changes_______________________________________--
+
+The main code of choice used in the first version was removed, and changed by "Select case", because before the new version it was used "if,then" and "goto".
+Some bugs was fixed and the generator works with 2  choices of randomization.
+The second randomization now works 
+Now the second way of randomization is working great
+The names randomized were decreased to 5 and 10 but the amount of names still the same that is (15).
+The program now acepts uppercase letters and lowercase letters
+The name of tne program was changed to "Forrozeiros names generator"
+
+
+
+
